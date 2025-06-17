@@ -21,7 +21,7 @@ This is a simple Python-based keylogger built using the `pynput` library. It cap
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-keylogger.git
+git clone https://github.com/dennisbrody/python-keylogger.git
 cd python-keylogger
 ```
 
@@ -80,10 +80,3 @@ This project helps reinforce:
 - [ ] Auto-email logs (with Gmail SMTP)
 - [ ] Create a simple GUI to toggle logger on/off
 - [ ] Package as executable using PyInstaller
-
----
-
-## 🤝 Author
-
-Created by [Your Name]  
-Follow me on GitHub: [github.com/your-username](https://github.com/your-username)
