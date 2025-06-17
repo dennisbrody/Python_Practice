@@ -83,12 +83,6 @@ This project helps reinforce:
 
 ---
 
-## 📚 License
-
-MIT License — Use at your own risk.
-
----
-
 ## 🤝 Author
 
 Created by [Your Name]  
